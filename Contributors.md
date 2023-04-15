@@ -4273,6 +4273,6 @@ Ayan Das
 - [Cho Hang Ng](https://github.com/dsjoench)
 - [Eugene Choi](https://github.com/sciones)
 - [Dylan Zhang](https://github.com/YinzeZhang)
-- [Virendra Yadav] (https://github.com/virendrayadav)
+- [Virendra Yadav](https://github.com/virendrayadav)
 - [Madhav Lehru](https://github.com/madhav037)   
 - [John Kowalsky](https://github.com/johnkowalsky007)
